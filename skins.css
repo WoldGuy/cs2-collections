@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5c8dbe2a29f2cc6b034727d8/1600450304458-KGKAI4JY2RKR6CDB2L8O/background-banner1.jpg');
+}
+
+button {
+    background-color:rgba(207, 204, 202, 0.85);
+    margin: 100px;
+    padding: 50px 700px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color:rgba(170, 173, 167, 0.966);
+    transform: translateY(5px) scale(0.95)
+}
+
+h3 {
+   font-size: 30px; 
+   text-align: center;
+}
